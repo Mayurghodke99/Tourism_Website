@@ -9,9 +9,6 @@ ADVENTURE - "Where Every Journey Begins"
  -  This is a simple website
  -  Pure HTML, CSS, JavaScript used
  
- ## 🔗 To see the project
-[Tourism website](https://simple-tourism-organization.netlify.app/)
-
 
 ## 👓 Preview
 <img src= "https://github.com/Shreyashkshirsagar/tourism-website/assets/109781537/42722076-97a7-41ae-b742-7a3981b1f2b8" width = "75%">
